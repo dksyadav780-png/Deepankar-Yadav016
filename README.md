@@ -1,5 +1,3 @@
-# Deepankar-Yadav016
-
 # 💫 About Me:
 🔭 I’m currentl🔭 I’m currently working on: Building a robust Frontend Java project as part of my internship, focusing on creating seamless user interfaces.<br>🤝 I’m looking to collaborate on: Open-source projects or part-time development roles where I can contribute my skills while supporting my studies.<br>🆘 I’m looking for help with: Mastering advanced React.js patterns and optimizing SQL queries within the Eclipse environment.<br>🌱 I’m currently learning: The React.js ecosystem, Python programming, and exploring Data Analytics through various specialized internship programs.<br>💬 Ask me about: Life at LoGMIEER, balancing a CS degree with an internship, or my favorite Anime and web series recommendations.<br>⚡ Fun fact: I’m a competitive spirit at heart—whether it’s a high-stakes match of Kabbadi on the field or an intense session of video games, I play to win!y working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
